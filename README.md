@@ -1,4 +1,4 @@
-# ⛈️ gcp-terraform
+# 🗺️ gcp-terraform
 
 gcp terraform infrastructure
 
